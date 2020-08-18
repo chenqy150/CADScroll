@@ -1,0 +1,6 @@
+framework module CADScroll {
+  umbrella header "CADScroll.h"
+
+  export *
+  module * { export * }
+}
